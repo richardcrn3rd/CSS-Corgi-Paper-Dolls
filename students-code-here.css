@@ -16,3 +16,6 @@ bottom: 110px;
     position: sticky;
     left: 0;
 }
+.top-hat {
+    z-index: 1;
+}
